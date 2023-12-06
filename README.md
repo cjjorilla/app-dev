@@ -1,2 +1,3 @@
-# app-dev
-My first repository.
+# My favourite movie Forest Gump
+[Click here to watch the full movie!!!](https://myflixerz.to/movie/forrest-gump-19710)
+- Forrest Gump, a man with an IQ of 75, recounts his extraordinary life experiences to strangers at a bus stop. Despite his limitations, Forrest's unwavering optimism and pure heart guide him through extraordinary events in American history. From playing football in college to serving in the Vietnam War, starting a shrimping business to inspiring a ping pong champion, Forrest unknowingly impacts the lives of those around him. Throughout his journey, his childhood love, Jenny, remains a constant presence in his heart, though their paths diverge and reconnect throughout the years. 
